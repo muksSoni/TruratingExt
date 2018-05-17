@@ -1,0 +1,944 @@
+﻿<currencies>
+<currency>
+  <name>Lek</name>
+  <numericCode>8</numericCode>
+  <alphaCode>ALL</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Algerian Dinar</name>
+  <numericCode>12</numericCode>
+  <alphaCode>DZD</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Argentine Peso</name>
+  <numericCode>32</numericCode>
+  <alphaCode>ARS</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Australian Dollar</name>
+  <numericCode>36</numericCode>
+  <alphaCode>AUD</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Bahamian Dollar</name>
+  <numericCode>44</numericCode>
+  <alphaCode>BSD</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Bahraini Dinar</name>
+  <numericCode>48</numericCode>
+  <alphaCode>BHD</alphaCode>
+  <minorUnitDigits>3</minorUnitDigits>
+</currency>
+<currency>
+  <name>Taka</name>
+  <numericCode>50</numericCode>
+  <alphaCode>BDT</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Armenian Dram</name>
+  <numericCode>51</numericCode>
+  <alphaCode>AMD</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Barbados Dollar</name>
+  <numericCode>52</numericCode>
+  <alphaCode>BBD</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Bermudian Dollar</name>
+  <numericCode>60</numericCode>
+  <alphaCode>BMD</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Ngultrum</name>
+  <numericCode>64</numericCode>
+  <alphaCode>BTN</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Boliviano</name>
+  <numericCode>68</numericCode>
+  <alphaCode>BOB</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Pula</name>
+  <numericCode>72</numericCode>
+  <alphaCode>BWP</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Belize Dollar</name>
+  <numericCode>84</numericCode>
+  <alphaCode>BZD</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Solomon Islands Dollar</name>
+  <numericCode>90</numericCode>
+  <alphaCode>SBD</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Brunei Dollar</name>
+  <numericCode>96</numericCode>
+  <alphaCode>BND</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Kyat</name>
+  <numericCode>104</numericCode>
+  <alphaCode>MMK</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Burundi Franc</name>
+  <numericCode>108</numericCode>
+  <alphaCode>BIF</alphaCode>
+  <minorUnitDigits>0</minorUnitDigits>
+</currency>
+<currency>
+  <name>Riel</name>
+  <numericCode>116</numericCode>
+  <alphaCode>KHR</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Canadian Dollar</name>
+  <numericCode>124</numericCode>
+  <alphaCode>CAD</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Cabo Verde Escudo</name>
+  <numericCode>132</numericCode>
+  <alphaCode>CVE</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Cayman Islands Dollar</name>
+  <numericCode>136</numericCode>
+  <alphaCode>KYD</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Sri Lanka Rupee</name>
+  <numericCode>144</numericCode>
+  <alphaCode>LKR</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Chilean Peso</name>
+  <numericCode>152</numericCode>
+  <alphaCode>CLP</alphaCode>
+  <minorUnitDigits>0</minorUnitDigits>
+</currency>
+<currency>
+  <name>Yuan Renminbi</name>
+  <numericCode>156</numericCode>
+  <alphaCode>CNY</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Colombian Peso</name>
+  <numericCode>170</numericCode>
+  <alphaCode>COP</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Comoro Franc</name>
+  <numericCode>174</numericCode>
+  <alphaCode>KMF</alphaCode>
+  <minorUnitDigits>0</minorUnitDigits>
+</currency>
+<currency>
+  <name>Costa Rican Colon</name>
+  <numericCode>188</numericCode>
+  <alphaCode>CRC</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Croatian Kuna</name>
+  <numericCode>191</numericCode>
+  <alphaCode>HRK</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Cuban Peso</name>
+  <numericCode>192</numericCode>
+  <alphaCode>CUP</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Czech Koruna</name>
+  <numericCode>203</numericCode>
+  <alphaCode>CZK</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Danish Krone</name>
+  <numericCode>208</numericCode>
+  <alphaCode>DKK</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Dominican Peso</name>
+  <numericCode>214</numericCode>
+  <alphaCode>DOP</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>El Salvador Colon</name>
+  <numericCode>222</numericCode>
+  <alphaCode>SVC</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Ethiopian Birr</name>
+  <numericCode>230</numericCode>
+  <alphaCode>ETB</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Nakfa</name>
+  <numericCode>232</numericCode>
+  <alphaCode>ERN</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Falkland Islands Pound</name>
+  <numericCode>238</numericCode>
+  <alphaCode>FKP</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Fiji Dollar</name>
+  <numericCode>242</numericCode>
+  <alphaCode>FJD</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Djibouti Franc</name>
+  <numericCode>262</numericCode>
+  <alphaCode>DJF</alphaCode>
+  <minorUnitDigits>0</minorUnitDigits>
+</currency>
+<currency>
+  <name>Dalasi</name>
+  <numericCode>270</numericCode>
+  <alphaCode>GMD</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Gibraltar Pound</name>
+  <numericCode>292</numericCode>
+  <alphaCode>GIP</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Quetzal</name>
+  <numericCode>320</numericCode>
+  <alphaCode>GTQ</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Guinea Franc</name>
+  <numericCode>324</numericCode>
+  <alphaCode>GNF</alphaCode>
+  <minorUnitDigits>0</minorUnitDigits>
+</currency>
+<currency>
+  <name>Guyana Dollar</name>
+  <numericCode>328</numericCode>
+  <alphaCode>GYD</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Gourde</name>
+  <numericCode>332</numericCode>
+  <alphaCode>HTG</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Lempira</name>
+  <numericCode>340</numericCode>
+  <alphaCode>HNL</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Hong Kong Dollar</name>
+  <numericCode>344</numericCode>
+  <alphaCode>HKD</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Forint</name>
+  <numericCode>348</numericCode>
+  <alphaCode>HUF</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Iceland Krona</name>
+  <numericCode>352</numericCode>
+  <alphaCode>ISK</alphaCode>
+  <minorUnitDigits>0</minorUnitDigits>
+</currency>
+<currency>
+  <name>Indian Rupee</name>
+  <numericCode>356</numericCode>
+  <alphaCode>INR</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Rupiah</name>
+  <numericCode>360</numericCode>
+  <alphaCode>IDR</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Iranian Rial</name>
+  <numericCode>364</numericCode>
+  <alphaCode>IRR</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Iraqi Dinar</name>
+  <numericCode>368</numericCode>
+  <alphaCode>IQD</alphaCode>
+  <minorUnitDigits>3</minorUnitDigits>
+</currency>
+<currency>
+  <name>New Israeli Sheqel</name>
+  <numericCode>376</numericCode>
+  <alphaCode>ILS</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Jamaican Dollar</name>
+  <numericCode>388</numericCode>
+  <alphaCode>JMD</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Yen</name>
+  <numericCode>392</numericCode>
+  <alphaCode>JPY</alphaCode>
+  <minorUnitDigits>0</minorUnitDigits>
+</currency>
+<currency>
+  <name>Tenge</name>
+  <numericCode>398</numericCode>
+  <alphaCode>KZT</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Jordanian Dinar</name>
+  <numericCode>400</numericCode>
+  <alphaCode>JOD</alphaCode>
+  <minorUnitDigits>3</minorUnitDigits>
+</currency>
+<currency>
+  <name>Kenyan Shilling</name>
+  <numericCode>404</numericCode>
+  <alphaCode>KES</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>North Korean Won</name>
+  <numericCode>408</numericCode>
+  <alphaCode>KPW</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Won</name>
+  <numericCode>410</numericCode>
+  <alphaCode>KRW</alphaCode>
+  <minorUnitDigits>0</minorUnitDigits>
+</currency>
+<currency>
+  <name>Kuwaiti Dinar</name>
+  <numericCode>414</numericCode>
+  <alphaCode>KWD</alphaCode>
+  <minorUnitDigits>3</minorUnitDigits>
+</currency>
+<currency>
+  <name>Som</name>
+  <numericCode>417</numericCode>
+  <alphaCode>KGS</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Kip</name>
+  <numericCode>418</numericCode>
+  <alphaCode>LAK</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Lebanese Pound</name>
+  <numericCode>422</numericCode>
+  <alphaCode>LBP</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Loti</name>
+  <numericCode>426</numericCode>
+  <alphaCode>LSL</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Liberian Dollar</name>
+  <numericCode>430</numericCode>
+  <alphaCode>LRD</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Libyan Dinar</name>
+  <numericCode>434</numericCode>
+  <alphaCode>LYD</alphaCode>
+  <minorUnitDigits>3</minorUnitDigits>
+</currency>
+<currency>
+  <name>Pataca</name>
+  <numericCode>446</numericCode>
+  <alphaCode>MOP</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Kwacha</name>
+  <numericCode>454</numericCode>
+  <alphaCode>MWK</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Malaysian Ringgit</name>
+  <numericCode>458</numericCode>
+  <alphaCode>MYR</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Rufiyaa</name>
+  <numericCode>462</numericCode>
+  <alphaCode>MVR</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Ouguiya</name>
+  <numericCode>478</numericCode>
+  <alphaCode>MRO</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Mauritius Rupee</name>
+  <numericCode>480</numericCode>
+  <alphaCode>MUR</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Mexican Peso</name>
+  <numericCode>484</numericCode>
+  <alphaCode>MXN</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Tugrik</name>
+  <numericCode>496</numericCode>
+  <alphaCode>MNT</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Moldovan Leu</name>
+  <numericCode>498</numericCode>
+  <alphaCode>MDL</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Moroccan Dirham</name>
+  <numericCode>504</numericCode>
+  <alphaCode>MAD</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Rial Omani</name>
+  <numericCode>512</numericCode>
+  <alphaCode>OMR</alphaCode>
+  <minorUnitDigits>3</minorUnitDigits>
+</currency>
+<currency>
+  <name>Namibia Dollar</name>
+  <numericCode>516</numericCode>
+  <alphaCode>NAD</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Nepalese Rupee</name>
+  <numericCode>524</numericCode>
+  <alphaCode>NPR</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Netherlands Antillean Guilder</name>
+  <numericCode>532</numericCode>
+  <alphaCode>ANG</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Aruban Florin</name>
+  <numericCode>533</numericCode>
+  <alphaCode>AWG</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Vatu</name>
+  <numericCode>548</numericCode>
+  <alphaCode>VUV</alphaCode>
+  <minorUnitDigits>0</minorUnitDigits>
+</currency>
+<currency>
+  <name>New Zealand Dollar</name>
+  <numericCode>554</numericCode>
+  <alphaCode>NZD</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Cordoba Oro</name>
+  <numericCode>558</numericCode>
+  <alphaCode>NIO</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Naira</name>
+  <numericCode>566</numericCode>
+  <alphaCode>NGN</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Norwegian Krone</name>
+  <numericCode>578</numericCode>
+  <alphaCode>NOK</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Pakistan Rupee</name>
+  <numericCode>586</numericCode>
+  <alphaCode>PKR</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Balboa</name>
+  <numericCode>590</numericCode>
+  <alphaCode>PAB</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Kina</name>
+  <numericCode>598</numericCode>
+  <alphaCode>PGK</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Guarani</name>
+  <numericCode>600</numericCode>
+  <alphaCode>PYG</alphaCode>
+  <minorUnitDigits>0</minorUnitDigits>
+</currency>
+<currency>
+  <name>Nuevo Sol</name>
+  <numericCode>604</numericCode>
+  <alphaCode>PEN</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Philippine Peso</name>
+  <numericCode>608</numericCode>
+  <alphaCode>PHP</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Qatari Rial</name>
+  <numericCode>634</numericCode>
+  <alphaCode>QAR</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Russian Ruble</name>
+  <numericCode>643</numericCode>
+  <alphaCode>RUB</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Rwanda Franc</name>
+  <numericCode>646</numericCode>
+  <alphaCode>RWF</alphaCode>
+  <minorUnitDigits>0</minorUnitDigits>
+</currency>
+<currency>
+  <name>Saint Helena Pound</name>
+  <numericCode>654</numericCode>
+  <alphaCode>SHP</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Dobra</name>
+  <numericCode>678</numericCode>
+  <alphaCode>STD</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Saudi Riyal</name>
+  <numericCode>682</numericCode>
+  <alphaCode>SAR</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Seychelles Rupee</name>
+  <numericCode>690</numericCode>
+  <alphaCode>SCR</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Leone</name>
+  <numericCode>694</numericCode>
+  <alphaCode>SLL</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Singapore Dollar</name>
+  <numericCode>702</numericCode>
+  <alphaCode>SGD</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Dong</name>
+  <numericCode>704</numericCode>
+  <alphaCode>VND</alphaCode>
+  <minorUnitDigits>0</minorUnitDigits>
+</currency>
+<currency>
+  <name>Somali Shilling</name>
+  <numericCode>706</numericCode>
+  <alphaCode>SOS</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Rand</name>
+  <numericCode>710</numericCode>
+  <alphaCode>ZAR</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>South Sudanese Pound</name>
+  <numericCode>728</numericCode>
+  <alphaCode>SSP</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Lilangeni</name>
+  <numericCode>748</numericCode>
+  <alphaCode>SZL</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Swedish Krona</name>
+  <numericCode>752</numericCode>
+  <alphaCode>SEK</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Swiss Franc</name>
+  <numericCode>756</numericCode>
+  <alphaCode>CHF</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Syrian Pound</name>
+  <numericCode>760</numericCode>
+  <alphaCode>SYP</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Baht</name>
+  <numericCode>764</numericCode>
+  <alphaCode>THB</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Pa’anga</name>
+  <numericCode>776</numericCode>
+  <alphaCode>TOP</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Trinidad and Tobago Dollar</name>
+  <numericCode>780</numericCode>
+  <alphaCode>TTD</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>UAE Dirham</name>
+  <numericCode>784</numericCode>
+  <alphaCode>AED</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Tunisian Dinar</name>
+  <numericCode>788</numericCode>
+  <alphaCode>TND</alphaCode>
+  <minorUnitDigits>3</minorUnitDigits>
+</currency>
+<currency>
+  <name>Uganda Shilling</name>
+  <numericCode>800</numericCode>
+  <alphaCode>UGX</alphaCode>
+  <minorUnitDigits>0</minorUnitDigits>
+</currency>
+<currency>
+  <name>Denar</name>
+  <numericCode>807</numericCode>
+  <alphaCode>MKD</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Egyptian Pound</name>
+  <numericCode>818</numericCode>
+  <alphaCode>EGP</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Pound Sterling</name>
+  <numericCode>826</numericCode>
+  <alphaCode>GBP</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Tanzanian Shilling</name>
+  <numericCode>834</numericCode>
+  <alphaCode>TZS</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>US Dollar</name>
+  <numericCode>840</numericCode>
+  <alphaCode>USD</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Peso Uruguayo</name>
+  <numericCode>858</numericCode>
+  <alphaCode>UYU</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Uzbekistan Sum</name>
+  <numericCode>860</numericCode>
+  <alphaCode>UZS</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Tala</name>
+  <numericCode>882</numericCode>
+  <alphaCode>WST</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Yemeni Rial</name>
+  <numericCode>886</numericCode>
+  <alphaCode>YER</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>New Taiwan Dollar</name>
+  <numericCode>901</numericCode>
+  <alphaCode>TWD</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Peso Convertible</name>
+  <numericCode>931</numericCode>
+  <alphaCode>CUC</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Zimbabwe Dollar</name>
+  <numericCode>932</numericCode>
+  <alphaCode>ZWL</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Turkmenistan New Manat</name>
+  <numericCode>934</numericCode>
+  <alphaCode>TMT</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Ghana Cedi</name>
+  <numericCode>936</numericCode>
+  <alphaCode>GHS</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Bolivar</name>
+  <numericCode>937</numericCode>
+  <alphaCode>VEF</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Sudanese Pound</name>
+  <numericCode>938</numericCode>
+  <alphaCode>SDG</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Serbian Dinar</name>
+  <numericCode>941</numericCode>
+  <alphaCode>RSD</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Mozambique Metical</name>
+  <numericCode>943</numericCode>
+  <alphaCode>MZN</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Azerbaijanian Manat</name>
+  <numericCode>944</numericCode>
+  <alphaCode>AZN</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>New Romanian Leu</name>
+  <numericCode>946</numericCode>
+  <alphaCode>RON</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Turkish Lira</name>
+  <numericCode>949</numericCode>
+  <alphaCode>TRY</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>CFA Franc BEAC</name>
+  <numericCode>950</numericCode>
+  <alphaCode>XAF</alphaCode>
+  <minorUnitDigits>0</minorUnitDigits>
+</currency>
+<currency>
+  <name>East Caribbean Dollar</name>
+  <numericCode>951</numericCode>
+  <alphaCode>XCD</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>CFA Franc BCEAO</name>
+  <numericCode>952</numericCode>
+  <alphaCode>XOF</alphaCode>
+  <minorUnitDigits>0</minorUnitDigits>
+</currency>
+<currency>
+  <name>CFP Franc</name>
+  <numericCode>953</numericCode>
+  <alphaCode>XPF</alphaCode>
+  <minorUnitDigits>0</minorUnitDigits>
+</currency>
+<currency>
+  <name>Zambian Kwacha</name>
+  <numericCode>967</numericCode>
+  <alphaCode>ZMW</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Surinam Dollar</name>
+  <numericCode>968</numericCode>
+  <alphaCode>SRD</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Malagasy Ariary</name>
+  <numericCode>969</numericCode>
+  <alphaCode>MGA</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Afghani</name>
+  <numericCode>971</numericCode>
+  <alphaCode>AFN</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Somoni</name>
+  <numericCode>972</numericCode>
+  <alphaCode>TJS</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Kwanza</name>
+  <numericCode>973</numericCode>
+  <alphaCode>AOA</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Belarussian Ruble</name>
+  <numericCode>974</numericCode>
+  <alphaCode>BYR</alphaCode>
+  <minorUnitDigits>0</minorUnitDigits>
+</currency>
+<currency>
+  <name>Bulgarian Lev</name>
+  <numericCode>975</numericCode>
+  <alphaCode>BGN</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Congolese Franc</name>
+  <numericCode>976</numericCode>
+  <alphaCode>CDF</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Convertible Mark</name>
+  <numericCode>977</numericCode>
+  <alphaCode>BAM</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Euro</name>
+  <numericCode>978</numericCode>
+  <alphaCode>EUR</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Hryvnia</name>
+  <numericCode>980</numericCode>
+  <alphaCode>UAH</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Lari</name>
+  <numericCode>981</numericCode>
+  <alphaCode>GEL</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Zloty</name>
+  <numericCode>985</numericCode>
+  <alphaCode>PLN</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+<currency>
+  <name>Brazilian Real</name>
+  <numericCode>986</numericCode>
+  <alphaCode>BRL</alphaCode>
+  <minorUnitDigits>2</minorUnitDigits>
+</currency>
+</currencies>

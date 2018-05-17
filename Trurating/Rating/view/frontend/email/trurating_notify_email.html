@@ -1,0 +1,29 @@
+<!--
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<!--@subject {{trans "TruRating Online - Magento %mver Extension - Installation Notification" mver=mver}} @-->
+<!--@vars {
+"var mver":"Magento Version",
+"var contactnumber":"Contact Number",
+"var contactaddress":"Contact Address"
+} @-->
+{{template config_path="design/email/header_template"}}
+<p>
+    This is an auto generated email to notify installation of TruRating Online Magento {{var mver}} extension.
+    <br/><br/>
+    <ul>
+        <li>
+            <b>{{trans "Merchant Domain Name"}} :</b> {{trans '<a href="%customer_url">%customer_url</a>' customer_url=$this.getUrl($store,'/',[_nosid:1])|raw}}
+        </li>
+        <li>
+            <b>{{trans "Contact Number"}} :</b> {{var contactnumber}}
+        </li>
+        <li>
+            <b>{{trans "Contact Address"}} :</b> {{var contactaddress}}
+        </li>
+    </ul>
+</p>
+{{template config_path="design/email/footer_template"}}
