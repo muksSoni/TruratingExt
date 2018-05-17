@@ -1,1 +1,0 @@
-The Trurating_Rating module serves to handle the Trurating Rating data both in the admin panel and the storefront.
