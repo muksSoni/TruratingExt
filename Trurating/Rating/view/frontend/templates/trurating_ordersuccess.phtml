@@ -1,0 +1,30 @@
+<?php 
+$dataArray = $block->getSomething($block->getOrderId());
+
+echo "<pre>";
+print_r($dataArray);
+echo "</pre>";
+//$lid = $block->getData();
+//print_r($lid);
+
+$dataArrayss = json_encode($dataArray);
+?>
+
+<script>
+require([
+    'jquery'
+], function ($) {
+    var TRURATING = <?= $dataArrayss ?>;
+    TRURATING.ver = "3.0.1";
+    var tr = document.createElement("script");
+    tr.id = "tr-ecomm-widget-src"; tr.type = "text/javascript";
+    tr.async = true; tr.src="https://ecommwidget.trurating.com/js?ver="+TRURATING.ver;
+    console.log(TRURATING);
+    console.log(tr);
+
+    var s = document.getElementsByTagName("script")[1];
+    s.parentNode.insertBefore(tr, s);
+	console.log(s);
+	console.log(s.parentNode);    
+});
+</script>
